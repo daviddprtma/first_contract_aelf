@@ -1,0 +1,12 @@
+D:\first_contract_aelf\src\bin\Debug\net8.0\MyCharacter.deps.json
+D:\first_contract_aelf\src\bin\Debug\net8.0\MyCharacter.dll
+D:\first_contract_aelf\src\bin\Debug\net8.0\MyCharacter.pdb
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.csproj.AssemblyReference.cache
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.AssemblyInfoInputs.cache
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.AssemblyInfo.cs
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.csproj.CoreCompileInputs.cache
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.dll
+D:\first_contract_aelf\src\obj\Debug\net8.0\refint\MyCharacter.dll
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.pdb
+D:\first_contract_aelf\src\obj\Debug\net8.0\ref\MyCharacter.dll
