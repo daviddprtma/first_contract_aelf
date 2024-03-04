@@ -6,6 +6,7 @@ D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.GeneratedMSBuildEditorCo
 D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.AssemblyInfoInputs.cache
 D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.AssemblyInfo.cs
 D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.csproj.CoreCompileInputs.cache
+D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.sourcelink.json
 D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.dll
 D:\first_contract_aelf\src\obj\Debug\net8.0\refint\MyCharacter.dll
 D:\first_contract_aelf\src\obj\Debug\net8.0\MyCharacter.pdb
